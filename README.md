@@ -1,1 +1,2 @@
-# LGMVIP-Web-Development-Task-3.github.io
+# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+COVID-19 with HTML5, CSS3 and JavaScript
